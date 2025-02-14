@@ -1,5 +1,5 @@
 /*
- * *** PLACE YOUR NAME / SECTION HERE ***
+ * *** Sulaiman Mohamed/ 001 ***
  *
  * Homework # 2 (Programming Assignment). This Java class defines a few basic
  * manipulation operations of a binary trees.
